@@ -4,7 +4,7 @@
 }
 
 header{
-    margin-top: 50px;
+    margin: 50px;
 }
 
 .black{
@@ -29,4 +29,8 @@ header{
 
 .white{
     background-color: white;
+}
+
+.gray{
+    background-color: #615e59;
 }
