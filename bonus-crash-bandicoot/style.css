@@ -1,0 +1,32 @@
+[class*="col-"]{
+    height: 20px;
+    max-width: 20px;
+}
+
+header{
+    margin-top: 50px;
+}
+
+.black{
+    background-color: black;
+}
+
+.red{
+    background-color: #bd2c36;
+}
+
+.orange{
+    background-color: #fc7c3f;
+}
+
+.beige{
+    background-color: #e2c396;
+}
+
+.brown{
+    background-color: #604638;
+}
+
+.white{
+    background-color: white;
+}
